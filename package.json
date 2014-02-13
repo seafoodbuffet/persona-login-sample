@@ -1,0 +1,18 @@
+{
+  "name": "persona-login-sample",
+  "version": "0.0.1",
+  "description": "A sample for logging in using Mozilla Persona https://login.persona.org",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seafoodbuffet <cheng@barelycode.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.4.8",
+    "passport": "~0.2.0",
+    "passport-browserid": "~0.1.4",
+    "express3-handlebars": "~0.5.0",
+    "nconf": "~0.6.9"
+  }
+}
